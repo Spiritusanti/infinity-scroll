@@ -1,6 +1,4 @@
 # infinity-scroll-pets
-infinite scroll project
-Quick project using the Unsplash API to implement inifite scrolling.
-Project built using HTML/CSS/Javascript
+Project built following https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/ and uses HTML, CSS and Javascript.
 
-Future additions - API search query functionality to let users decide what category of photos they wish to scroll through.
+The project consumes the Unsplash API to provide content for the infinite scroll feature and is geared towards pet lovers!
